@@ -30,5 +30,4 @@ The data used in this project was collected from two main sources:
 - Matplotlib, Seaborn
 - Classification, regression, and clustering algorithms
 
-## Repository Structure
 
